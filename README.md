@@ -20,7 +20,7 @@ This project is a virtual reality experience developed in Unreal Engine for the 
 4. Open the project in Unreal Engine.
 5. Connect your Oculus Quest 2 to your development machine.
 6. Enable OpenXR support in the project settings.
-7. Install the MetaXR plugin by following the instructions provided in the [MetaXR Plugin Documentation](https://metavrse.com/docs/unreal-engine/metaxr-unreal-engine-plugin).
+7. Install the MetaXR plugin.
 8. Build and deploy the project to your Oculus Quest 2 device.
 9. Put on your Oculus Quest 2 headset and start the VR Sword Cutting Experience.
 
